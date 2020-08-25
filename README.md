@@ -10,17 +10,21 @@ Results:
 
 On laptop with Intel(R) Core(TM) i7-4558U CPU @ 2.80GHz
 
+```
 Alacritty + tmux
 2310021 coloured characters per second
 1469603 unicode characters per second
 4741729 none-unicode characters per second
  680047 Mixed characters per second
+```
 
+```
 Alacritty
 4231845 coloured characters per second
 5913143 unicode characters per second
 9526407 none-unicode characters per second
  949401 Mixed characters per second
+```
 
 Any feedback and help to extend the project is welcome.
 
