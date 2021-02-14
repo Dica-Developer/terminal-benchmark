@@ -1,17 +1,16 @@
 # terminal-benchmark
 
-The projects aim is to provide a comprehensive set of terminal emulator tests.
+This project's aim is to provide a comprehensive set of terminal emulator tests.
 
-Currently it is a simple bash script to measure the performance of an terminal emulator in characters per second.
-Currently colour code output unicode and none unicode character output and a mix of unicode and none unicode
-with a variable line length are checked.
-
-Results:
+Currently, it is a simple bash script which measures the performance of a terminal emulator in characters per second. It runs tests with:
+- color code unicode characters
+- the none unicode character
+- a mix of unicode and none characters
 
 
 Any feedback and help to extend the project is welcome.
 
-Results are collected in the wiki https://github.com/Dica-Developer/terminal-benchmark/wiki/user-test-results
+Results are collected in the wiki: https://github.com/Dica-Developer/terminal-benchmark/wiki/user-test-results
 
 TODO:
 * use results from repeated test executions
