@@ -7,6 +7,7 @@ Currently, it is a simple bash script which measures the performance of a termin
 - the none unicode character
 - a mix of unicode and none characters
 
+> if you are running on osx, you'll need to install coreutils **brew install coreutils**
 
 Any feedback and help to extend the project is welcome.
 
